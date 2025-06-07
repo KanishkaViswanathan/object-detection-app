@@ -54,6 +54,3 @@ The application uses a pretrained model from Hugging Face to detect objects in i
 
 Contributions are welcome! Please feel free to submit a pull request or open an issue for any enhancements or bug fixes.
 
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for more details.
